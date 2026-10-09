@@ -1,0 +1,3 @@
+numpy>=1.24
+pygame-ce>=2.4
+sounddevice>=0.4

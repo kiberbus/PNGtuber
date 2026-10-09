@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# PyInstaller output, I rebuild it with build.bat
+build/
+dist/
+*.spec
+
+# My local settings: the app rewrites this file on every change
+config.json
+
+# Raw AI-generated frames I feed into make_eye_frames.py
+generated/
+
+# OS and editors
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
